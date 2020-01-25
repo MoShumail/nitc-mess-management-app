@@ -32,7 +32,7 @@ export default class App extends Component {
           <Left />
           <Body>
             <Title>Mess Management</Title>
-            <Subtitle>Code.init()</Subtitle>
+            
           </Body>
           <Right />
         </Header>
